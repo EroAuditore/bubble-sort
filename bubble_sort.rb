@@ -13,6 +13,5 @@ def bubble_sort(arr)
 end
 
 sorted_arr = bubble_sort([10, 2, 4, 1])
-
-puts('array sorted:')
+puts 'array sorted:'
 puts sorted_arr
