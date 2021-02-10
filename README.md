@@ -16,8 +16,8 @@
 
 How ot use it:
 
-- bubble_sort.rb has a method #bubble_sort(arr_int) where arr_int is an array of integers and the method will return an a sorted array of integers
-- bubble_sort_by.rb has a method #bubble_sort_by(arr_str) where arr_str is an array of strings and the method will return an array of strings sorted by the length of the elements
+- bubble_sort.rb has a method #bubble_sort(arr_int) where arr_int is an array of integers and the method will return an a sorted array of integers and print the array in the screen
+- bubble_sort_by.rb has a method #bubble_sort_by(arr_str) where arr_str is an array of strings and the method will return an array of strings sorted by the length of the elements and print the array in the screen
 
 ## Dependencies
 
